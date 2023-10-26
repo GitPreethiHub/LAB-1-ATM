@@ -19,6 +19,8 @@ to withdraw money,deposit.
 ![Screenshot 2023-09-22 144733](https://github.com/GitPreethiHub/LAB-1-ATM/assets/119475585/d9e62973-bf4f-4724-a4b0-008b59934382)
 #### Communication Diagram:
 ![Screenshot 2023-09-22 135216](https://github.com/GitPreethiHub/LAB-1-ATM/assets/119475585/3e6d4faf-e79b-45e8-8220-afa799ad0d93)
+### Package diagram:
+![image](https://github.com/GitPreethiHub/LAB-1-ATM/assets/119475585/0393c512-bd7a-4223-8438-145d159f81b1)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
